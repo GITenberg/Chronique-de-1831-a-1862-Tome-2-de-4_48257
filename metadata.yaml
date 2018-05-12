@@ -1,4 +1,5 @@
 _repo: Chronique-de-1831-a-1862-Tome-2-de-4_48257
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,12 +9,17 @@ contributor:
       deathdate: 1915
       gutenberg_agent_id: '31550'
       url: http://www.gutenberg.org/2009/agents/31550
+covers:
+- cover_type: archival
+  image_path: 48257-h/images/cover.jpg
 creator:
   author:
     agent_name: Dino, Dorothée de
     gutenberg_agent_id: '44702'
     url: http://www.gutenberg.org/2009/agents/44702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48257#Chronique-de-1831-a-1862-Tome-2-de-4
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2015-02-14'
 gutenberg_type: Text
